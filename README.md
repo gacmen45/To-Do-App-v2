@@ -28,6 +28,6 @@ Project is created with:
 * JavaScript
 
 ## Live
-https://gacmen45.github.io/To-Do-App/
+https://gacmen45.github.io/To-Do-App-v2/
 
 </div>
